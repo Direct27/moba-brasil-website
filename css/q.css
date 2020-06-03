@@ -1,0 +1,27 @@
+.logo {
+	background-image:url(logo_moba_brasil.png);
+
+}
+
+.texto {
+	font-family: OpenSans;
+}
+
+.gradients {
+	background-image: -moz-linear-gradient(0deg, #5e92d1 0%, #e73131 100%);
+	background-image: -ms-linear-gradient(0deg, #5e92d1 0%, #e73131 100);
+	background-image: -o-linear-gradient(0deg, #5e92d1 0%, #e73131 100%);
+	background-image: -webkit-linear-gradient(0deg, #5e92d1 0%, #e73131 100%);
+	background-image: linear-gradient(90deg, #5e92d1 0%, #e73131 100%);
+}
+
+.botao {
+	border-color: #000000;
+	border-width: 2px;
+
+}
+
+.slide {
+	background-image:url(dota_lol_hon.png);
+
+}
